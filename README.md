@@ -1,4 +1,8 @@
-# HoloCare
+<p align="center">
+  <img src="rsc/logos/logo.png" alt="HoloCare logo" width="180">
+</p>
+
+<h1 align="center">HoloCare</h1>
 
 HoloCare es una aplicación diseñada para **calcular riesgos de multimorbilidad** y **apoyar el manejo de pacientes** mediante el uso de las **guías clínicas más actualizadas**.
 
